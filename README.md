@@ -1,2 +1,2 @@
 # Puzzle-Prison
-A game, where the objective is to reach the final door from the start of a maze.
+A game, where the objective is to reach the final door from the start of a maze. In order to do this you must obtain a key found inside each level to unlock the door. Locked doors will block your path and increase the time it takes to reach the end. You must find the correct buttons to lower or raise walls in the map in order to obtain the key and reach the end. As a bonus, picking up coins and reaching the final door faster will increase your score.
